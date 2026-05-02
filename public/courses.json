@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.9,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "category": "Development",
+    "curriculum": ["HTML & CSS", "JavaScript", "React", "Next.js"]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design Masterclass",
+    "instructor": "Sarah Khan",
+    "duration": "15 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn modern UI/UX design with practical projects.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5",
+    "category": "Design",
+    "curriculum": ["Design Basics", "Figma", "Wireframe", "Prototype"]
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Pro",
+    "instructor": "Rakib Hasan",
+    "duration": "12 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Master SEO, Facebook ads and content marketing.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "category": "Marketing",
+    "curriculum": ["SEO", "Social Media", "Ads", "Analytics"]
+  },
+  {
+    "id": 4,
+    "title": "Python for Beginners",
+    "instructor": "Alex Smith",
+    "duration": "18 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Start programming with Python basics.",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+    "category": "Programming",
+    "curriculum": ["Variables", "Functions", "OOP", "Projects"]
+  },
+  {
+    "id": 5,
+    "title": "React Advanced Course",
+    "instructor": "Nusrat Jahan",
+    "duration": "22 hours",
+    "rating": 4.5,
+    "level": "Advanced",
+    "description": "Build advanced React applications.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+    "category": "Development",
+    "curriculum": ["Hooks", "Context", "API", "Optimization"]
+  },
+  {
+    "id": 6,
+    "title": "Graphic Design Essentials",
+    "instructor": "Mehedi Islam",
+    "duration": "10 hours",
+    "rating": 4.4,
+    "level": "Beginner",
+    "description": "Learn Photoshop and Illustrator basics.",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d",
+    "category": "Design",
+    "curriculum": ["Color", "Typography", "Photoshop", "Branding"]
+  }
+]
