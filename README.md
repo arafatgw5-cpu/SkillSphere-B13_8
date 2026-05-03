@@ -1,36 +1,135 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎓 SkillSphere – Online Learning Platform
 
-## Getting Started
+🚀 A modern online learning platform where users can explore courses, learn new skills, and grow their careers.
 
-First, run the development server:
+---
+
+## 🌐 Live Site
+
+🔗 https://skill-sphere-b13-8-94z6.vercel.app
+
+
+
+---
+
+## 📌 Project Features
+
+✅ User Authentication (Email & Password + Google Login)
+✅ Protected Route (Course Details Page)
+✅ Dynamic Course Data (Fetched from JSON)
+✅ Search Functionality (Search courses by title)
+✅ Responsive Design (Mobile, Tablet, Desktop)
+✅ Toast Notifications (Success/Error feedback)
+✅ Profile Page (View user info)
+✅ Update Profile Feature (Name & Image)
+✅ Loading Spinner & 404 Page
+✅ Clean UI & Modern Design
+
+---
+
+## 🧩 Main Sections
+
+### 🏠 Home Page
+
+* Hero Section with background image
+* Popular Courses (Top rated)
+* Learning Tips Section
+* Top Instructors Section
+* Trending Courses
+
+### 📦 All Courses Page
+
+* Displays all courses
+* Search functionality by title
+
+### 🔒 Course Details Page
+
+* Protected route (Login required)
+* Full course information
+* Static curriculum section
+
+### 🔑 Authentication
+
+* Login (Email & Password)
+* Register (Name, Email, Password, Image URL)
+* Google Login
+
+### 👤 My Profile
+
+* View user information
+* Update profile (Name & Image)
+
+---
+
+## 🛠️ Technologies Used
+
+* ⚡ Next.js (App Router)
+* 🎨 Tailwind CSS
+* 🌼 DaisyUI
+* 🔐 BetterAuth
+* 🗄️ MongoDB
+* 🔔 Sonner (Toast)
+* 🎯 Lucide React (Icons)
+* 🎞️ Framer Motion (Animation)
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+`
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Setup environment variables
+
+
+### 4️⃣ Run the project
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🧪 Build Test (Important)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm start
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📊 Extra Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✨ Search functionality
+✨ Trending Courses section
+✨ Profile update feature
+✨ Smooth animations
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## ⚠️ Important Notes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Environment variables are not included in GitHub
+* No page crashes on reload
+* All routes are working properly
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+
+
+## ⭐ Final Words
+
+This project was built as part of an assignment to demonstrate modern frontend development skills using Next.js, authentication systems, and responsive UI design.
+
+---
+
+🔥 Thank you for checking out this project!
